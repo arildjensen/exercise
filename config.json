@@ -1,0 +1,6 @@
+{
+  "container_name": "mynginx",
+  "output_file": "metrics",
+  "format": "json",
+  "initial_freq": 2
+}
